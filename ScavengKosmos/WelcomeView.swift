@@ -1,6 +1,6 @@
 //
 //  WelcomeView.swift
-//  ImmerseVid
+//  ScavengKosmos
 //
 //  Created by ShriGanesh K Purohit on 01/03/25.
 //

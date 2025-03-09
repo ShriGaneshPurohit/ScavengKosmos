@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ImmerseVid
+//  ScavengKosmos
 //
 //  Created by ShriGanesh K Purohit on 18/02/25.
 //

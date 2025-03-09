@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		EA6405932D64A2B300A770F3 /* ImmerseVid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImmerseVid.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA6405932D64A2B300A770F3 /* ScavengKosmos .app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ScavengKosmos .app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EA6405952D64A2B300A770F3 /* ImmerseVid */ = {
+		EA6405952D64A2B300A770F3 /* ScavengKosmos */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ImmerseVid;
+			path = ScavengKosmos;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		EA64058A2D64A2B300A770F3 = {
 			isa = PBXGroup;
 			children = (
-				EA6405952D64A2B300A770F3 /* ImmerseVid */,
+				EA6405952D64A2B300A770F3 /* ScavengKosmos */,
 				EA6405942D64A2B300A770F3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		EA6405942D64A2B300A770F3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA6405932D64A2B300A770F3 /* ImmerseVid.app */,
+				EA6405932D64A2B300A770F3 /* ScavengKosmos .app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA6405922D64A2B300A770F3 /* ImmerseVid */ = {
+		EA6405922D64A2B300A770F3 /* ScavengKosmos  */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA6405A32D64A2B400A770F3 /* Build configuration list for PBXNativeTarget "ImmerseVid" */;
+			buildConfigurationList = EA6405A32D64A2B400A770F3 /* Build configuration list for PBXNativeTarget "ScavengKosmos " */;
 			buildPhases = (
 				EA64058F2D64A2B300A770F3 /* Sources */,
 				EA6405902D64A2B300A770F3 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EA6405952D64A2B300A770F3 /* ImmerseVid */,
+				EA6405952D64A2B300A770F3 /* ScavengKosmos */,
 			);
-			name = ImmerseVid;
+			name = "ScavengKosmos ";
 			packageProductDependencies = (
 			);
 			productName = ImmerseVid;
-			productReference = EA6405932D64A2B300A770F3 /* ImmerseVid.app */;
+			productReference = EA6405932D64A2B300A770F3 /* ScavengKosmos .app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EA64058E2D64A2B300A770F3 /* Build configuration list for PBXProject "ImmerseVid" */;
+			buildConfigurationList = EA64058E2D64A2B300A770F3 /* Build configuration list for PBXProject "ScavengKosmos " */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA6405922D64A2B300A770F3 /* ImmerseVid */,
+				EA6405922D64A2B300A770F3 /* ScavengKosmos  */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA64058E2D64A2B300A770F3 /* Build configuration list for PBXProject "ImmerseVid" */ = {
+		EA64058E2D64A2B300A770F3 /* Build configuration list for PBXProject "ScavengKosmos " */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA6405A12D64A2B400A770F3 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA6405A32D64A2B400A770F3 /* Build configuration list for PBXNativeTarget "ImmerseVid" */ = {
+		EA6405A32D64A2B400A770F3 /* Build configuration list for PBXNativeTarget "ScavengKosmos " */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA6405A42D64A2B400A770F3 /* Debug */,
