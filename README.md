@@ -25,7 +25,7 @@ The app gamifies real-world navigation and discovery using AR challenges, locati
 
 ## 📱 Screenshots
 
-> ![Screenshot_1](Screenshots/Screenshot_1)
+> ![Screenshot_1](Screenshots/Screenshot_1.png)
 
 
 ## 🧪 How to Run
