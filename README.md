@@ -66,5 +66,3 @@ The app gamifies real-world navigation and discovery using AR challenges, locati
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Would you like me to generate badges (e.g., build status, license, Swift version), or create visuals for the screenshots section?
