@@ -8,7 +8,6 @@ The app gamifies real-world navigation and discovery using AR challenges, locati
 
 ## ✨ Features
 
-* 🗺️ **Location-based Hunt**: Users unlock new checkpoints as they physically reach predefined locations.
 * 🧩 **AR Challenges**: Interact with augmented objects and solve clues to proceed.
 * 🔓 **Unlock Levels**: Each successful checkpoint leads to the next, with increasing difficulty.
 * 👥 **Multiplayer Ready**: Team play and competitive mode support (future roadmap).
@@ -20,8 +19,7 @@ The app gamifies real-world navigation and discovery using AR challenges, locati
 * **Language**: Swift 5
 * **Frameworks**: ARKit, CoreLocation, MapKit, SwiftUI, AVFoundation
 * **Architecture**: MVVM
-* **Backend (Optional)**: Firebase (for user progress and real-time multiplayer - if used)
-* **Tools**: Xcode, Reality Composer, TestFlight
+
 
 ## 📱 Screenshots
 
@@ -61,8 +59,4 @@ The app gamifies real-world navigation and discovery using AR challenges, locati
 * ShriGanesh Keshrimal Purohit – iOS Developer & UX Designer
 * Connect [Link Text](https://www.linkedin.com/in/shriganeshpurohit/)
 
-## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
